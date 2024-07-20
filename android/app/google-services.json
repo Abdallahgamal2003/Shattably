@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992755003368",
+    "project_id": "shattably-fae2a",
+    "storage_bucket": "shattably-fae2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992755003368:android:f2a3ad270618aab99dbe5d",
+        "android_client_info": {
+          "package_name": "com.example.shattably"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKIUZn_vQqGu79lxr7AAWXtZOreslXJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
